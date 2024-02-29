@@ -4,7 +4,9 @@ Desafio para criar uma imagem go que exiba a mensagem "Full Cycle Rocks!!" ao ro
 
 Download da imagem:
 
-docker pull rodrigolopesinf/fullcycle
+Download da imagem:
+------- |
+docker pull rodrigolopesinf/fullcycle |
 
 Imagem executando:
 
